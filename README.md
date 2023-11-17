@@ -25,7 +25,7 @@ There is no need to install
 
 - Object Detection
 
-![][https://samle.gif]
+![][https://sample.gif]
 - Object Labeling
 
 <embed src></>
